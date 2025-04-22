@@ -1,0 +1,7 @@
+{
+  "name": "diariodeaventuras",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
